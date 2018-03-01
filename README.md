@@ -3,7 +3,7 @@
 How to Run the code :
 
 1.	Run requirement.py
-2.	Run P2.py with arguments (new york.txt)
+2.	Run chatbot.py with arguments (new york.txt)
 
 
 Sample Questions:
